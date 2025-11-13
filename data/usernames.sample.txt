@@ -1,0 +1,2 @@
+# Sample Snapchat usernames to scrape (one per line)
+fcbarcelona

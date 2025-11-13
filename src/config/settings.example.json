@@ -1,0 +1,6 @@
+{
+  "snapchat_base_url": "https://story.snapchat.com",
+  "request_timeout_seconds": 15,
+  "proxies": null,
+  "verify_ssl": true
+}
